@@ -1,0 +1,2 @@
+https://docs.python.org/pt-br/3/library/index.html
+https://blog.botcity.dev/pt-br/2024/01/15/bibliotecas-python/
